@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  Mona
+
+  Created by Tariq on 9/16/19.
+  Copyright © 2019 Tariq. All rights reserved.
+*/
+
+"Empty Fields" = "الحقول فارغة";
+"Email or Password incorrect" = "البريد الالكترونى او كلمه السر غير صحيحة";
+"Check your internet connection" = "يرجى التحقق من الاتصال بالانترنت";
+"Message" = "رسالة";
+"Dismiss" = "";
+"The password must be at least 6 characters" = "كلمه السر يجب الا تقل عن ٦ احرف";
+"Error" = "خطأ";
+"REMOVE FROM WISHLIST" = "حذف من قائمه المفضلة";
+"ADD TO WISHLIST" = "اضافه الى قائمه المفضلة";
+"Please Select Color" = "الرجاء اختيار لون";
+"Ok" = "حسنا";
+"complete your order" = "اكمل طلبك";
+"Cancel" = "إلغاء";
+"Select Language" = "اختيار اللغه";
+"Are you sure you want to log out?" = "هل تريد تسجيل الحروج؟";
+"Profile Updated" = "تم تعديل بياناتك الشخصيه";
+"Old Password Not Match" = "كلمه المرور القديمه غير متطابقه";
+"Order in Progress" = "الطلب تحت المراجعة";
+"Order Delivered" = "تم توصيل الطلب";
+"Order Canceled" = "تم إلغاء الطلب";
+"Cash on Delivered" = "الدفع عند وصول الطلب";
+"order:" = "الطلب:";
+"Date:" = "التاريخ:";
+"en" = "ar";
+"he" = "ar";

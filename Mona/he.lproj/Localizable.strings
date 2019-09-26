@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  Mona
+
+  Created by Tariq on 9/16/19.
+  Copyright © 2019 Tariq. All rights reserved.
+*/
+
+"Empty Fields" = "שדות ריקים";
+"Email or Password incorrect" = "אימייל או סיסמא שגויים";
+"Check your internet connection" = "תבדוק את חיבור האינטרנט שלך";
+"Message" = "הודעה";
+"Dismiss" = "לשחרר";
+"The password must be at least 6 characters" = "הסיסמה חייבת לכלול לפחות 6 תווים";
+"Error" = "שגיאה";
+"REMOVE FROM WISHLIST" = "הסר מהרשימה המועדפת";
+"ADD TO WISHLIST" = "הוסף לרשימה המועדפת";
+"Please Select Color" = "אנא בחר צבע";
+"Ok" = "בסדר";
+"complete your order" = "השלם את ההזמנה שלך";
+"Cancel" = "לבטל";
+"Select Language" = "בחר שפה";
+"Are you sure you want to log out?" = "האם אתה בטוח שברצונך להתנתק?";
+"Profile Updated" = "הפרופיל עודכן";
+"Old Password Not Match" = "סיסמה ישנה לא תואמת";
+"Order in Progress" = "סדר בתהליך";
+"Order Delivered" = "ההזמנה הועברה";
+"Order Canceled" = "ההזמנה בוטלה";
+"Cash on Delivered" = "מזומנים שנמסרו";
+"order:" = "להזמין:";
+"Date:" = "תאריך:";
+"en" = "he";
+"ar" = "he";
